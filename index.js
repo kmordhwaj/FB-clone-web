@@ -9,6 +9,7 @@ const morgan = require("morgan");
 
 const userRoute = require("./routes/users");
 const authRoute = require("./routes/auth");
+const postRoute = require("./routes/posts");
 
 //use dotenv to hide our confedential data like key, password etc.
 dotenv.config();
@@ -25,6 +26,7 @@ app.use(morgan("common"));
 
 app.use("/api/users", userRoute);
 app.use("/api/auth", authRoute);
+app.use("/api/posts", postRoute);
 
 // we set or given a port to connect the server then after connecting we had given a callback fn
 app.listen(8800, () => {                     
