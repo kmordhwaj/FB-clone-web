@@ -1,5 +1,5 @@
 # FB-clone-web
-This is a full stack MERN Stack web app.
+This is a full stack MERN web app.
 
 <h3 align="left">Various repositories I have used here:</h3>
 <p>*<a href="https://www.npmjs.com/package/bcrypt" target="blank"> bcrypt <a/><p/>
