@@ -4,7 +4,7 @@ This is a full stack MERN Stack web app.
 <h3 align="left">Various repositories I have used here:</h3>
 <p>*<a href="https://www.npmjs.com/package/bcrypt" target="blank"> bcrypt <a/><p/>
 <p>*<a href="https://www.npmjs.com/package/dotenv" target="blank"> dotenv <img width="30" height="30" align="center" src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.svg" /> <a/>
-<p/><p>*<a href="https://www.npmjs.com/package/express" target="blank"> express <img width="30" height="30" align="center" src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" /> <a/><p/>
+<p/><p>*<a href="https://www.npmjs.com/package/express" target="blank"> express <img width="50" height="30" align="center" src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" /> <a/><p/>
 <p>*<a href="https://www.npmjs.com/package/helmet" target="blank"> helmet  <a/><p/>
 <p>*<a href="https://www.npmjs.com/package/mongoose" target="blank"> mongoose <img width="50" height="30" align="center" src="https://camo.githubusercontent.com/c2c238f2e4ff7244eb4b9cfd09b47e4d3a8049389cad2751d8678579eaf3eedf/68747470733a2f2f6e6f6465692e636f2f6e706d2f6d6f6e676f6f73652e706e67" /> <a/>
 <p/><p>*<a href="https://www.npmjs.com/package/morgan" target="blank"> morgan  <a/><p/>
